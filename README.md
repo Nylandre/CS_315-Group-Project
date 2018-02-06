@@ -1,2 +1,6 @@
 # CS_315-Group-Project
-Programming Language Project
+XXX Programming Language Project
+Contributors
+-Gokce Sakir Ozyurt
+-Yasin Ilkagan Tepeli
+-Yamac Ergiz
